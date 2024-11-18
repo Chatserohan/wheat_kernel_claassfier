@@ -1,6 +1,3 @@
-Here's a basic README file for your project:
-
----
 
 # Wheat Kernel Classifier
 
